@@ -10,9 +10,19 @@ This is my awesome password generator! When the user clicks on the 'Generate Pas
 
 
 
+
+
+
 # Prompt
 
 
 
 
 # Final Result
+
+
+
+
+# Deployment 
+
+https://sapaitz.github.io/Awesome-Password-Generator/
